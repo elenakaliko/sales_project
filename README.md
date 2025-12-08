@@ -8,21 +8,21 @@ The goal is to show both **data engineering skills** and **data visualization sk
 
 ## Project Structure
 
-portfolio_project_sales/
+portfolio_project_sales/ <br>
 │
-├── data/
-│ └── Sales.csv # Raw dataset
+├── data/ <br>
+│ └── Sales.csv # Raw dataset <br>
 │
-├── src/
-│ └── data_cleaning_sales.py # Python script for preprocessing
+├── src/ <br>
+│ └── data_cleaning_sales.py # Python script for preprocessing <br>
 │
-├── dashboard/
-│ └── screenshots/ # Power BI dashboard screenshots
-│ ├── overview.png
-│ ├── revenue_trend.png
-│ └── customer_segments.png
+├── dashboard/ <br>
+│ └── screenshots/ # Power BI dashboard screenshots <br>
+│ ├── overview.png <br>
+│ ├── revenue_trend.png <br>
+│ └── customer_segments.png <br>
 │
-└── README.md # Project description
+└── README.md # Project description <br>
 
 
 ---
