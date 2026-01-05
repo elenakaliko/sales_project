@@ -22,8 +22,8 @@ portfolio_project_sales/ <br>
 │ └── Sales_mngr_perf.png <br>
 |
 ├── images/ <br> # Power BI dashboard screenshots <br>
-│ └── readme_1.png/ 
-│ └── readme_2.png/ 
+│ └── Readme_1.png/ 
+│ └── Readme_2.png/ 
 │
 └── README.md # Project description <br>
 
@@ -48,10 +48,12 @@ portfolio_project_sales/ <br>
   - Year-over-Year Growth  
   - Percentage of Returned Items  
 - Built visualizations:
-  - Revenue trends over time  
-  - Customer and product segmentation  
-  - Interactive overview dashboard for management  
-- Exported dashboard screenshots to include in the portfolio  
+  - In a nutshell: YTD sales, Current month vs previous year, Category variance  ![1](power_bi_dashboard/In_a_Nutshell.png)
+  - Zoom on category: top-10 products, Monthly sales vs last year, Budget fulfillment, etc.  ![2](power_bi_dashboard/Zoom on Category.png)
+  - Sales managers performance: Commission paid, Monthly sales   ![3](power_bi_dashboard/Sales_mngrs_perf.png)
+- Exported dashboard screenshots to include in the portfolio
+![PBI Dashboard overview](images/Readme_1.png)
+![Tables structure](images/Readme_2.png)
 
 ---
 
@@ -62,7 +64,6 @@ portfolio_project_sales/ <br>
 ---
 
 ## How to Run the Python Code
-1. Navigate to the `src/` folder:
 Run the data cleaning script: python data_cleaning_sales.py
 cd src
 
