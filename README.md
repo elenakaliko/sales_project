@@ -8,7 +8,7 @@ The goal is to show both **data engineering skills** and **data visualization sk
 
 ## Project Structure
 
-portfolio_project_sales/ <br>
+sales_project/ <br>
 │
 ├── data/ <br>
 │ └── Sales.csv # Raw dataset <br>
