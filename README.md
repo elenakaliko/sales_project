@@ -13,14 +13,17 @@ portfolio_project_sales/ <br>
 ├── data/ <br>
 │ └── Sales.csv # Raw dataset <br>
 │
-├── src/ <br>
+├
 │ └── data_cleaning_sales.py # Python script for preprocessing <br>
 │
-├── dashboard/ <br>
-│ └── screenshots/ # Power BI dashboard screenshots <br>
-│ ├── overview.png <br>
-│ ├── revenue_trend.png <br>
-│ └── customer_segments.png <br>
+├── power_bi_dashboard/ <br>
+│ ├── In_a_nutshell.png <br>
+│ ├── Zoom_on_Category.png <br>
+│ └── Sales_mngr_perf.png <br>
+|
+├── images/ <br> # Power BI dashboard screenshots <br>
+│ └── readme_1.png/ 
+│ └── readme_2.png/ 
 │
 └── README.md # Project description <br>
 
