@@ -14,7 +14,7 @@ portfolio_project_sales/ <br>
 │ └── Sales.csv # Raw dataset <br>
 │
 ├
-│ └── data_cleaning_sales.py # Python script for preprocessing <br>
+└── data_cleaning_sales.py # Python script for preprocessing <br>
 │
 ├── power_bi_dashboard/ <br>
 │ ├── In_a_nutshell.png <br>
@@ -49,8 +49,8 @@ portfolio_project_sales/ <br>
   - Percentage of Returned Items  
 - Built visualizations:
   - In a nutshell: YTD sales, Current month vs previous year, Category variance  ![1](power_bi_dashboard/In_a_Nutshell.png)
-  - Zoom on category: top-10 products, Monthly sales vs last year, Budget fulfillment, etc.  ![2](power_bi_dashboard/Zoom on Category.png)
-  - Sales managers performance: Commission paid, Monthly sales   ![3](power_bi_dashboard/Sales_mngrs_perf.png)
+  - Zoom on category: top-10 products, Monthly sales vs last year, Budget fulfillment, etc.  ![2](power_bi_dashboard/Zoom_on_Category.png).
+  - Sales managers performance: Commission paid, Monthly sales   ![3](power_bi_dashboard/sales_managers_perf.png)
 - Exported dashboard screenshots to include in the portfolio
 ![PBI Dashboard overview](images/Readme_1.png)
 ![Tables structure](images/Readme_2.png)
